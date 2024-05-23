@@ -1,16 +1,20 @@
 # Hi :wave: My name is Trevor Pierce
-  
-:earth_africa:  I'm based in New York* 
 
-:desktop_computer:  See my portfolio at [Website](http://website)* 
+## Subtitle
 
-:email:  You can contact me at [tmpierce@gmail.com](mailto:tmpierce@gmail.com)* 
+### About Me
 
-:rocket:  I'm currently working on [Project](http://sda)* 
+* :earth_africa:  Based in New York
 
-:brain:  I'm learning Learning* 
+* :desktop_computer:  See my portfolio at [Website](http://website)
 
-:zap:  Former Bartender, Zookeeper, Journalist, Radio Producer, Construction Worker,
+* :email:  You can contact me at [tmpierce@gmail.com](mailto:tmpierce@gmail.com)
+
+* :rocket:  I'm currently working on [Project](http://sda)
+
+* :brain:  I'm learning Learning
+
+* :zap:  Former Bartender, Zookeeper, Journalist, Radio Producer, Construction Worker
 
 ### Skills
 <p align="left">
