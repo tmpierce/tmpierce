@@ -10,11 +10,9 @@
 
 * :email:  You can contact me at [tmpierce@gmail.com](mailto:tmpierce@gmail.com)
 
--- * :rocket:  I'm currently working on [Project](http://sda)
+* :brain:  I'm learning Python for AI, obtaining my PMP, and finding a new Makespace
 
-* :brain:  I'm learning Python for AI, obtaining my PMP
-
-* :zap:  Former Bartender, Zookeeper, Journalist, Radio Producer, Construction Worker
+* :zap:  Former Bartender, Zookeeper, Journalist, Radio Producer, Construction Worker, Wine Writer, TIG Welder
 
 ### Skills
 <p align="left">
