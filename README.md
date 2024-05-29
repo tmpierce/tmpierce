@@ -6,11 +6,11 @@
 
 * :earth_africa:  Based in New York
 
-* :desktop_computer:  See my portfolio at [Website](http://website)
+* :desktop_computer:  See my portfolio of [Python, DBT and SQL]([http://website](https://github.com/tmpierce/portfolio))
 
 * :email:  You can contact me at [tmpierce@gmail.com](mailto:tmpierce@gmail.com)
 
-* :rocket:  I'm currently working on [Project](http://sda)
+-- * :rocket:  I'm currently working on [Project](http://sda)
 
 * :brain:  I'm learning Python for AI, obtaining my PMP
 
