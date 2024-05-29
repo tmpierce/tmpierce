@@ -6,7 +6,7 @@
 
 * :earth_africa:  Based in New York
 
-* :desktop_computer:  See my portfolio of [Python, DBT and SQL]([http://website](https://github.com/tmpierce/portfolio))
+* :desktop_computer:  See my portfolio of [Python, DBT and SQL](https://github.com/tmpierce/portfolio)
 
 * :email:  You can contact me at [tmpierce@gmail.com](mailto:tmpierce@gmail.com)
 
