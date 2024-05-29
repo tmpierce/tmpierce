@@ -12,7 +12,7 @@
 
 * :rocket:  I'm currently working on [Project](http://sda)
 
-* :brain:  I'm learning Learning
+* :brain:  I'm learning Python for AI, obtaining my PMP
 
 * :zap:  Former Bartender, Zookeeper, Journalist, Radio Producer, Construction Worker
 
