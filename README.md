@@ -1,6 +1,6 @@
 # Hi :wave: My name is Trevor Pierce
 
-## Subtitle
+## Data & Analytics / Business Intelligence
 
 ### About Me
 
