@@ -6,7 +6,7 @@
 
 * :earth_africa:  Based in New York, 10 years of experience managing data for NYC-Based Startups. Most recently Director of QA at Allazo Health
 
-* :desktop_computer:  See my portfolio of [Python, DBT and SQL](https://github.com/tmpierce/portfolio)
+* :desktop_computer:  See my portfolio inclduing [Python, SQL and AI Models](https://github.com/tmpierce/portfolio)
 
 * :email:  You can contact me at [tmpierce@gmail.com](mailto:tmpierce@gmail.com)
 
