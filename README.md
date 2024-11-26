@@ -4,7 +4,7 @@
 
 ### About Me
 
-* :earth_africa:  Based in New York, 10 years of experience as a Business Intelligence Analyst for NYC-Based Startups
+* :earth_africa:  Based in New York, 10 years of experience managing data for NYC-Based Startups. Most recently Director of QA at Allazo Health
 
 * :desktop_computer:  See my portfolio of [Python, DBT and SQL](https://github.com/tmpierce/portfolio)
 
